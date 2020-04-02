@@ -4,4 +4,3 @@ x=int(input('Tha doume thn propaidia tou arithmou ?: '))
 y=lambda a: [int(i*a) for i in range(1,11)]
 print(y(x))
 print('Sas xairetw kai kleinw to programma!!')
-print('auto edw einai ena paradeigma pou tha to diagrapsw se epomeno bhma')
